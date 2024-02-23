@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "minVersion": "0.8.5",
+    "package": "com.floweytf.test.mixin",
+    "target": "@env(DEFAULT)",
+    "compatibilityLevel": "JAVA_17",
+    "server": [
+        "EnderManMixin"
+    ]
+}
